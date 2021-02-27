@@ -1,0 +1,22 @@
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link {
+	border-right: 5px solid #eeeeee;
+}
+.nav-item.nav-link.active {
+	color: #fff;
+    background-color: #4c32e9;
+    border-color: #4226e8;
+}
+.rounded_shadow {
+	box-shadow: 0 1px 6px 0 rgba(0,0,0,0.12), 0 1px 6px 0 rgba(0,0,0,0.12);
+    border-radius: 2px;
+    border: 0;
+}
+.input_green_border,
+.input_green_border:focus {
+	border: 2px solid green;
+}
+.info-box2 {
+	background-color: #ffffff;
+	padding-bottom: 16px!important;
+	border-radius: 5px;
+}

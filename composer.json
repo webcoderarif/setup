@@ -1,0 +1,12 @@
+{
+	"autoload": {
+		"psr-4": {
+			"Clippingpathhouse\\": "clippingpathhouse/"
+		}
+	},
+	"require": {
+		"league/omnipay": "^3.0",
+		"omnipay/paypal": "^3.0",
+		"dompdf/dompdf": "^0.8.6"
+	}
+}
